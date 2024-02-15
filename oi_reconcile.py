@@ -13,7 +13,7 @@ from sympy.utilities.iterables import multiset_permutations
 
 
 
-path = '/Users/jonkqiku/ECHA/FUT/OIS'
+path = ''
 files = sorted(os.listdir(path))
 
 ois = np.empty((0,2))

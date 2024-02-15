@@ -4,7 +4,7 @@ from tqdm import tqdm
 from itertools import combinations_with_replacement
 from sympy.utilities.iterables import multiset_permutations
 
-path = '/Users/jonkqiku/Documents/Projects/Combinations'
+path = ''
 
 s = [-1, 0, 1]
 n = len(s)

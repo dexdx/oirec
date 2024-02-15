@@ -3,7 +3,7 @@ import requests
 import numpy as np
 from time import time
 
-path = '/Users/jonkqiku/ECHA/Data'
+path = ''
 
 base =  'https://fapi.binance.com'
 exts = {'oi': '/futures/data/openInterestHist',
